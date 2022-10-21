@@ -39,8 +39,7 @@ salida :
 -si es que elige usar la opcion 5
 ~~~
 +-------------------------------------------------------+
-|-gracias por elegir su servicio                        |
-|                                                       |
+|-Vuelva pronto y gracias por su preferencia             |
 |                                                       |
 |                                                       |
 |                                                       |
