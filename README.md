@@ -48,7 +48,7 @@ salida :
 ~~~
 
 
-![](https://github.com/MelgarejoTorresIoannesIxca/T3A5/blob/main/Targetas.png)
+![](https://github.com/FernandoSanchezJ/T3A5/blob/main/T3A5.png)
 
 ## etapa 5:
 
