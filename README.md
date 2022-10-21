@@ -52,4 +52,4 @@ salida :
 
 ## etapa 5:
 
-https://github.com/MelgarejoTorresIoannesIxca/T3A5/blob/main/Targetas.zip
+https://github.com/FernandoSanchezJ/T3A5/blob/main/T3A5.rar
